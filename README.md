@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Hello Microverse this is the project assigned by microverse.
 
-**[Hello_Microverse_this_is_project_assigned_by_microverse]** is a...
+**[Hello_Microverse_this_is_project_assigned_by_microverse]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -245,9 +245,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+
+If you like this project.....
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

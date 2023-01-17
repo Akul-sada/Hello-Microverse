@@ -118,7 +118,7 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+
 
 - **What is the use of stylelint in a CSS and HTML project?**
 

@@ -71,15 +71,16 @@ Sadananda Sherigara
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+<!-- ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[new_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,13 +120,11 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **What is the use of stylelint in a CSS and HTML project?**
 
-  - [Answer_1]
+  - Stylelint is a linter that helps developers write maintainable CSS code. It scans through a project's CSS and HTML code to detect potential errors and enforce style rules, such as indentation, consistancy in naming conventions, and more. It also helps teams adhere to coding standards and best practices, which can make projects easier to maintain and debug.
 
-- **[Question_2]**
 
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

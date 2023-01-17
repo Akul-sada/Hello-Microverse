@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 > HTML | CSS | GIT 
 
-👤 **Author**
+👤 **Author** <a name="authors"></a>
 Sadananda Sherigara
 - GitHub: [@Akul-sada](https://github.com/Akul-sada)
 - Twitter: [@nssadananda](https://twitter.com/nssadananda)

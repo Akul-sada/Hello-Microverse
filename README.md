@@ -89,7 +89,7 @@ Hello Microverse!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://akul-sada.github.io/HelloMicroveseR/)
+- [Live Demo Link](https://akul-sada.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
